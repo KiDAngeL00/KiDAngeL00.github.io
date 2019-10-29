@@ -1,0 +1,58 @@
+@charset "UTF-8";
+.menu
+{
+	width: 1180px;
+	height: auto;
+}
+.all
+{
+	width: 1180px;
+	height: auto;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	
+}
+.about
+{
+	text-align: center;
+	width: 1180px;
+	height: auto;
+}
+.bg
+{
+	text-align: center;
+	width: 1180px;
+	height: auto;
+}
+.anh1
+{
+	width: 400px;
+	height: 400px;
+	float: left;
+	border-radius: 50%;
+}
+.dv1
+{
+	width: 780px;
+	text-align: center;
+	float: right;
+}
+.doan2
+{
+	clear: both;
+}
+.dv2{
+	width: 780px;
+	text-align: center;
+	float: right;
+}
+.anh2{
+	width: 400px;
+	height: 400px;
+	float: left;
+	border-radius: 50%;
+}
+.doan1
+{
+	float: left;
+}
